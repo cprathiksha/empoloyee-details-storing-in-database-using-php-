@@ -26,7 +26,6 @@
   <option value="Assoc.Prof">Assoc.Prof</option>
   <option value="Professor">Professor</option>
 </select><br/>
-
 <input type="submit" value="Add Employee"/>
 </form>
 </body>
